@@ -45,3 +45,4 @@ total+=tat[i];
 avg_tat=(float)total/n;
 printf("nnAverage Waiting Time=%f",avg_wt);
 printf("nAverage Turnaround Time=%fn",avg_tat);
+}
